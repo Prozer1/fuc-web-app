@@ -1,0 +1,3 @@
+[submodule "fuc-web-app-backend"]
+	path = fuc-web-app-backend
+	url = https://github.com/Prozer1/fuc-web-app-backend.git
